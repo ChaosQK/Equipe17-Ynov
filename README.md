@@ -4,5 +4,5 @@ Pour se connecter sur le site :
 
 Lien  : http://equipe17-ynov.ovh/admin/
 
-Identifiant : Test
+Identifiant : Test\n
 Mot de passe : Ynov

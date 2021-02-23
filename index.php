@@ -43,7 +43,6 @@
         }  
         
         $pictures = $bdd->selectAllPrepare('SELECT * FROM pictures' . $conditions, $prepare);
-        echo print_r($pictures);
     }else{
         $pictures = $bdd->selectAll('SELECT * FROM pictures');
     }

@@ -1,0 +1,72 @@
+html {
+    background: rgb(255, 255, 255);
+}
+h1 {
+    margin: 0 0 20px;
+    line-height: 1;
+    color:#005c84;
+    font-size: 45px;
+    font-weight: 400;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 140px;
+    height: 120px;
+}
+.container{
+    width: 40%;
+    margin: auto;
+    margin-top:10%;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    background: #fff;
+    width: 500px;
+    margin: -140px 0 0 -250px;
+    padding: 20px;
+    
+}
+
+.login_admin {
+    background-color: rgb(255, 255, 255);
+    padding: 5vh;
+    border: 2px solid #f1f1f1;
+    box-shadow: 0 0 0.5vh;
+}
+.container h1{
+    padding-bottom: 3vh;
+    margin: 0;
+    text-align: center;
+}
+
+
+.input_login {
+    padding: 1.8vh 2.2vh;
+    margin: 0.5vh;
+    width: 100%;
+    border:2px solid;
+    font-size: 100%;
+    margin-bottom: 2vh;
+}
+
+
+.button {
+    cursor: pointer;
+    background:#005c84;
+    width: 100%;
+    padding: 10px 15px;
+    border: 0;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;  
+}
+.button:hover {
+    background: #369cb8;
+}
+#submit {
+    top:10px;
+    left: 220px;
+}
